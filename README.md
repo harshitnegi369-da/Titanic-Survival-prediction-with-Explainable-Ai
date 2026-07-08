@@ -9,7 +9,7 @@ The project demonstrates both **predictive modeling** and **model interpretabili
 ---
 
 ## Dataset
-
+The dataset used in this project is the Titanic: Machine Learning from Disaster dataset, originally made available through Kaggle.
 - **Dataset:** Titanic Dataset
 - **Target Variable:** Survived
   - 0 → Did Not Survive
